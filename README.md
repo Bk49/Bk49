@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bk49, and yes of course my real name wasn't that you silly... (pss, call me Eric!)
 - 👀 I’m interested in front end and back end development for web projects
-- 🌱 I’m currently learning Angular... (Quite painful from a ReactJS perspective)
-- 💞️ I’m looking to collaborate on Discord bots!
+- 🌱 I’m currently studying in SMU (Computer Science)
+- 💞️ I’m looking to collaborate in any software projects
 - 📫 Email => ericngyongwei@gmail.com
