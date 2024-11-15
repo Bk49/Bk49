@@ -3,3 +3,4 @@
 - 🌱 I’m currently studying in SMU (Computer Science)
 - 💞️ I’m looking to collaborate in any software projects
 - 📫 Email => ericngyongwei@gmail.com
+- LinkedIn => https://www.linkedin.com/in/ericnyw/
