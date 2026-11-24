@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bk49, and yes of course my real name wasn't that you silly... (pss, call me Eric!)
-- 👀 I’m interested in front end and back end development for web projects
-- 🌱 I’m currently studying in SMU (Computer Science)
-- 💞️ I’m looking to collaborate in any software projects
+- 👀 I’m interested in software engineering with current focus on AI-driven development and education
+- 🌱 I’m currently working at Singapore Management University as a Research Engineer
+- 💞️ I’m looking to collaborate in any software projects or exploring bleeding-edge AI engineering techniques
 - 📫 Email => ericngyongwei@gmail.com
 - LinkedIn => https://www.linkedin.com/in/ericnyw/
